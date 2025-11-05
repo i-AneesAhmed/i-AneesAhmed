@@ -9,8 +9,9 @@
 ## 🚀 About Me
 
 I am an enthusiastic third-year Artificial Intelligence student, currently in my 5th semester, with a keen interest in AI and its subfields such as Machine Learning and Deep Learning. I am committed to pursuing a future in AI engineering and advancing my skillset in technology and innovation.
+- 🔭 I’m currently working on [Fashion Recommendation System](https://github.com/i-AneesAhmed/fashion-recommendation-system.git)
 
-- 🛰️ Currently developing **SmartReader** – an AI-powered document reader and summarizer.
+- 👯 I’m looking to collaborate on [Fashion Recommendation System](https://github.com/i-AneesAhmed/fashion-recommendation-system.git)
 - ☁️ Expanding my expertise in **DevOps** and **Cloud Computing**.
 - 🤝 Open to collaboration on **open-source projects**, especially within the GitHub community.
 - 💬 Feel free to reach out regarding **contributions, programming, or technology**.
