@@ -2,7 +2,7 @@ name: LeetCode Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs once daily at midnight
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -18,3 +18,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LEETCODE_USER_NAME: AneesCodeX
           SHOW_LEETCODE: "True"
+
