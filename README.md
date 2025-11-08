@@ -1,100 +1,15 @@
 <p align="center">
-    <a href="https://github.com/i-AneesAhmed">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Ahtisham!;Top+10+GitHub+Committer+in+Pakistan;Top+10+LeetCoder+in+Pakistan&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
-    </a>
-</p>
-<!--- Adding Header Elements -->
-<p align="center">
-    <a href="https://linkedin.com/in/AneesAhmed">
-        <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/31818831">
-        <img src="assets/mystackoverflow.png" height="40" alt="Stack Overflow">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://facebook.com/AneesAhmed">
-        <img src="assets/myfacebook.png" height="40" alt="Facebook">
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://instagram.com/iam_anees11">
-        <img src="assets/myinstagram.png" height="40" alt="Instagram">
-    </a>&nbsp;&nbsp;
-    <a href="https://mail.google.com/mail/?view=cm&to=aneesale04@gmail.com">
-        <img src="assets/mygmail.png" height="40" alt="Gmail">
-    </a>&nbsp;&nbsp;
-
+  <a href="https://github.com/i-AneesAhmed">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&center=true&width=640&height=45&color=87CEEB&vCenter=true&pause=1000&size=30&lines=Welcome%20To%20My%20Profile,%20I'm%20Anees%20%E2%9D%A4%EF%B8%8F" alt="Typing Text"/>      
+  </a>
 </p>
 
-<img src="assets/line.gif" height="20" width="100%">
-<img src="assets/mygif2.gif" min-width="300px" max-width="300px" width="350px" align="right"><img width="300" alt="🦑" src="https://raw.githubusercontent.com/i-AneesAhmed/i-AneesAhmed/main/github-metrics.svg"><br>
-<img  width="300" alt="🦑" src="https://raw.githubusercontent.com/i-AneesAhmed/i-AneesAhmed/main/metrics.plugin.isocalendar.fullyear.svg">
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Ahtisham-1214&theme=dark_lover)](https://github.com/Ahtisham-1214/github-profile-trophy) -->
-
-
-**💻Tech Stack:**<br><br>
-<p>
-<b>Languages:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/c.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/c++.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/html.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/css.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/javascript.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/java.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/python.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/dart.png" height="40"/>&nbsp;&nbsp;
-    <br><br><br>
-<b>Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/react.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/springboot.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/numpy.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/keras.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/tensorflow.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/pandas.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/pytorch.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/scikit-learn.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/matplotlib.png" height="40"/><br><br><br>
-    <b>Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
-    <img src="assets/git.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/githubicon.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/PyCharm.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/word.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/excel.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/powerpoint.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/vsCode.png" height="40"/>&nbsp;&nbsp;
-    <img src="assets/jupyter.png" height="40"/>&nbsp;&nbsp;
-    <br><br><br>
-    <img src="assets/databases.png" height="40">&nbsp;&nbsp;&nbsp;<b>Databases :</b>&nbsp;&nbsp;&nbsp;<img src="assets/mysql.png" height="40">
-</p><br><br>
-
-<h2 style="color:#e8df7a; display: flex; align-items: center;">
-    <a href="https://leetcode.com/u/i-AneesAhmed/" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
-</h2>
-
-<p>
-    <a href="https://leetcode.com/u/AneesCodeX/">
-    <img src="https://leetcard.jacoblin.cool/AneesCodeX?theme=unicorn&ext=heatmap">
-    </a>
-    <br>
-    <a href="assets/50daysproof.png">
-    <img src="assets/50days.png" height="100"></a>
-</p>
-
-<h2 style="color:#e8df7a; display: flex; align-items: center;">
-    <a href="https://github.com/i-AneesAhmed" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="assets/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
-        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
-
-    
-</h2>
-
-
-
-
-# Hi, I'm Anees Ahmed! <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="32" align="absmiddle" alt="GitHub Octocat"/> <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="32" align="absmiddle" alt="Wave"/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="160" alt="Octocat 3D Waving"/>
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="120" alt="Wave"/><br>
+  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="120" alt="Octocat 3D Waving"/>
 </p>
+
 
 ---
 
@@ -116,18 +31,6 @@ I am an enthusiastic third-year Artificial Intelligence student, currently in my
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" alt="Coding Cat 3D"/>
 </p>
 
----
-
-## 📰 Daily AI News (auto-updated)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" alt="News GIF"/>
-</p>
-
-<!-- NEWS_START -->
-**Latest AI headlines will appear here — updated daily.**
-- (placeholder) Example: "New model improves multimodal reasoning — source"
-<!-- NEWS_END -->
 
 ---
 
@@ -167,6 +70,48 @@ I am an enthusiastic third-year Artificial Intelligence student, currently in my
 </p>
 
 ---
+<p align="center">
+    <a href="https://www.linkedin.com/in/anees-ahmed-049741303">
+        <img src="assets/mylinkedIn.png" height="40" alt="LinkedIn">
+    </a>&nbsp;&nbsp;
+    <a href="https://stackoverflow.com/users/31818831">
+        <img src="assets/mystackoverflow.png" height="40" alt="Stack Overflow">
+    </a>&nbsp;&nbsp;
+    <a href="https://facebook.com/AneesAhmed">
+        <img src="assets/myfacebook.png" height="40" alt="Facebook">
+    </a>&nbsp;&nbsp;
+    <a href="https://instagram.com/iam_anees11">
+        <img src="assets/myinstagram.png" height="40" alt="Instagram">
+    </a>&nbsp;&nbsp;
+    <a href="mailto:aneesale04@gmail.com">
+        <img src="assets/mygmail.png" height="40" alt="Gmail">
+    </a>&nbsp;&nbsp;
+</p>
+
+
+<h2 style="color:#e8df7a; display: flex; align-items: center;">
+    <a href="https://leetcode.com/u/i-AneesAhmed/" style="display: inline-flex; align-items: center; text-decoration: none;">
+        <img src="assets/leetcode.svg" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
+        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">LeetCode Stats:</span>
+</h2>
+
+<p>
+    <a href="https://leetcode.com/u/AneesCodeX/">
+    <img src="https://leetcard.jacoblin.cool/AneesCodeX?theme=unicorn&ext=heatmap">
+    </a>
+    <br>
+    <a href="assets/50daysproof.png">
+    <img src="assets/50days.png" height="100"></a>
+</p>
+
+<h2 style="color:#e8df7a; display: flex; align-items: center;">
+    <a href="https://github.com/i-AneesAhmed" style="display: inline-flex; align-items: center; text-decoration: none;">
+        <img src="assets/github_social media_icon.png" height="40" style="vertical-align: middle; margin-right: 8px;"></a>
+        <span style="color:#e8df7a; font-size: 1.5em; vertical-align: middle;">GitHub Stats:</span>
+
+    
+</h2>
+
 
 ## 📊 GitHub Activity & Statistics
 
@@ -184,12 +129,6 @@ I am an enthusiastic third-year Artificial Intelligence student, currently in my
 ---
 
 
-### 🧮 My LeetCode Activity
-<!--START_SECTION:leetcode-->
-
-<!--END_SECTION:leetcode-->
-
-
 
 ## 🏆 Achievements
 
@@ -198,12 +137,6 @@ I am an enthusiastic third-year Artificial Intelligence student, currently in my
 </p>
 
 ---
-
-## ✨ Featured Projects
-
-- 🚀 [SmartReader](https://github.com/i-AneesAhmed/SmartReader): AI-powered document reader & summarizer.
-- ⚙️ [DevOps-Learning](https://github.com/i-AneesAhmed/DevOps-Learning): Curated resources and notes for DevOps and Cloud Computing.
-- 🌟 [OpenSource-Contributions](https://github.com/i-AneesAhmed/OpenSource-Contributions): Highlights and documentation from my open-source journey.
 
 <p align="center">
   <img src="https://media.giphy.com/media/UQFa2pZl6n3gM/giphy.gif" width="180" alt="Project Showcase"/>
