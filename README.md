@@ -77,13 +77,13 @@ I am an enthusiastic third-year Artificial Intelligence student, currently in my
     <a href="https://stackoverflow.com/users/31818831">
         <img src="assets/mystackoverflow.png" height="40" alt="Stack Overflow">
     </a>&nbsp;&nbsp;
-    <a href="https://facebook.com/AneesAhmed">
+    <a href="https://www.facebook.com/anees.1671">
         <img src="assets/myfacebook.png" height="40" alt="Facebook">
     </a>&nbsp;&nbsp;
     <a href="https://instagram.com/iam_anees11">
         <img src="assets/myinstagram.png" height="40" alt="Instagram">
     </a>&nbsp;&nbsp;
-    <a href="mailto:aneesale04@gmail.com">
+    <a href="https://aneesale04@gmail.com">
         <img src="assets/mygmail.png" height="40" alt="Gmail">
     </a>&nbsp;&nbsp;
 </p>
