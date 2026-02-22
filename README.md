@@ -125,15 +125,6 @@ I am an enthusiastic third-year Artificial Intelligence student, currently is my
   <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="160" alt="Rocket Launch"/>
 </p>
 
----
-
-
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=i-AneesAhmed&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
-</p>
 
 ---
 
